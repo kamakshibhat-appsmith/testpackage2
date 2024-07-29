@@ -1,12 +1,12 @@
 {
-  "gitSyncId": "66a7a8f24a0564113f6c3abd_d475d8d4-88e5-4dd3-a9d9-7abcffc81210",
-  "id": "Page2 Copy__$JSModule1_11p$_JSModule1_1",
+  "gitSyncId": "66a7ab024a0564113f6c3b2f_8cfcaed5-f563-4cb6-a078-17ca0a47ccf9",
+  "id": "Page2 Copy__$JSModule1_11p$_JSModule1",
   "isPublic": true,
   "moduleInstanceId": "Page2 Copy_JSModule1_11p",
   "rootModuleInstanceId": "Page2 Copy_JSModule1_11p",
   "unpublishedCollection": {
     "contextType": "PAGE",
-    "name": "_$JSModule1_11p$_JSModule1_1",
+    "name": "_$JSModule1_11p$_JSModule1",
     "pageId": "Page2 Copy",
     "pluginId": "js-plugin",
     "pluginType": "JS"
