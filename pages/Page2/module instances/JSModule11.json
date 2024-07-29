@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "66a79f424a0564113f6c35a8_0f61e562-a106-4c97-bfad-23f7b89f6278",
+  "id": "Page2_JSModule11",
+  "moduleUUID": "df8229c5-44c9-4487-a4ca-84b3e0d4a6cf",
+  "packageUUID": "b3156b58-8bb4-429b-8785-ebb996e7144d",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "name": "JSModule11",
+    "pageId": "Page2",
+    "version": "0.0.5"
+  }
+}
