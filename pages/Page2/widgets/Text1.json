@@ -63,7 +63,7 @@
     "Suggested",
     "Content"
   ],
-  "text": "{{JSModule11.myfun1.data}}",
+  "text": "{{JSModule11.myFun1.data}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "thumbnailSVG": "/static/media/thumbnail.0c129b82c9b3e4cd4920563b289659ab.svg",
