@@ -521,7 +521,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 45,
   "searchKey": "",
-  "tableData": "{{JSModule1_11p.myFun1.data}}",
+  "tableData": "{{JSModule1_11p.myFun1.data}}/",
   "tags": [
     "Suggested",
     "Display"
