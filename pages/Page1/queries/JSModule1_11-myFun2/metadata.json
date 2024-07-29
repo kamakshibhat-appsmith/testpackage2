@@ -1,14 +1,14 @@
 {
-  "gitSyncId": "66a7afd64a0564113f6c3d21_3d3b987c-aa9b-47af-9b8e-388791dd7c5b",
-  "id": "Page1__$JSModule11$_JSModule1.myFun2",
+  "gitSyncId": "66a7afd64a0564113f6c3d21_84ef9c62-78a6-4ca5-a6e5-4e4e34b8690b",
+  "id": "Page1__$JSModule1_11$_JSModule1_1.myFun2",
   "isPublic": true,
-  "moduleInstanceId": "Page1_JSModule11",
+  "moduleInstanceId": "Page1_JSModule1_11",
   "pluginId": "js-plugin",
   "pluginType": "JS",
-  "rootModuleInstanceId": "Page1_JSModule11",
+  "rootModuleInstanceId": "Page1_JSModule1_11",
   "unpublishedAction": {
     "clientSideExecution": true,
-    "collectionId": "Page1__$JSModule11$_JSModule1",
+    "collectionId": "Page1__$JSModule1_11$_JSModule1_1",
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
     "datasource": {
@@ -17,7 +17,7 @@
       "pluginId": "js-plugin"
     },
     "executeOnLoad": false,
-    "fullyQualifiedName": "_$JSModule11$_JSModule1.myFun2",
+    "fullyQualifiedName": "_$JSModule1_11$_JSModule1_1.myFun2",
     "name": "myFun2",
     "pageId": "Page1",
     "userSetOnLoad": false
