@@ -6,14 +6,12 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "input1": "111111"
-    },
+    "inputs": {},
     "moduleInputs": {
       "ykbsmbofsi": {}
     },
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.9"
+    "version": "0.0.10"
   }
 }
